@@ -11,6 +11,7 @@ export const getTodoList = () => {
   });
 };
 
+// Create edit ve delete sanki apiye gidiyormuş gibi yazılmıştır.
 export const createTodo = async (data) => {
   //axios.post("http://localhost:3000/todoList/", data);
   return data;

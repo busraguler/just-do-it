@@ -2,6 +2,7 @@ import Form from "../../../components/atoms/Form";
 import { useDispatch } from "react-redux";
 import { createTodo } from "../../../redux/modules/todo/actions";
 import { formData } from "./constants";
+import "../../../styles/todoForm.scss";
 
 function TodoForm() {
   const dispatch = useDispatch();

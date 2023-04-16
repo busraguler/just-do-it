@@ -2,6 +2,7 @@ import { useSelector } from "react-redux";
 import ListItem from "./ListItem";
 import { getTodoList } from "../../../service/todo";
 import { useEffect } from "react";
+import "../../../styles/todoList.scss";
 
 function TodoList() {
   const { todoList, isLoading } = useSelector((state) => state.todo);
