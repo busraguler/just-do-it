@@ -1,0 +1,16 @@
+@import "variable";
+
+.formContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  button {
+    height: 40px;
+    text-transform: capitalize;
+  }
+  input {
+    color: $text !important;
+    font-size: 14px !important;
+  }
+}

@@ -1,0 +1,8 @@
+export const SET_TODO_LİST = "SET_TODO_LİST";
+export const CREATE_TODO = "CREATE_TODO";
+export const CREATE_TODO_SUCCESS = "CREATE_TODO_SUCCESS";
+export const EDIT_TODO = "EDIT_TODO";
+export const EDIT_TODO_SUCCESS = "EDIT_TODO_SUCCESS";
+export const DELETE_TODO = "DELETE_TODO";
+export const DELETE_TODO_SUCCESS = "DELETE_TODO_SUCCESS";
+export const SET_LOADING = "SET_LOADING";
