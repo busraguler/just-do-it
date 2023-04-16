@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Just do it
+
+- You can run the project with npm install then npm run start.
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/16039532/232318879-93f6181b-9d71-4c4f-983d-9d95fbed03aa.png)
